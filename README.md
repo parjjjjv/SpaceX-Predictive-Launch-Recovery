@@ -196,20 +196,6 @@ Models were evaluated using:
 * KNN struggled due to sparse and high-dimensional categorical features.
 * The final models achieved strong success recall for safe landing prediction.
 
----
-
-# 📁 Repository Structure
-
-```bash
-├── data/
-├── notebooks/
-├── dashboards/
-├── maps/
-├── presentations/
-├── images/
-├── README.md
-└── insights.md
-```
 
 ---
 
